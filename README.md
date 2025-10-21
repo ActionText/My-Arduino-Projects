@@ -26,22 +26,12 @@ Welcome to my electronics projects repository! This collection represents my jou
 
 ---
 
-## 🌟 Skills & Technologies
+## 🌱 Current Skills
+- Arduino Programming (C++)
+- Breadboard Circuit Building
+- Basic Electronics
 
-### 💻 **Programming**
-- Arduino C++
-- Embedded Systems
-- PCB Design
-
-### 🔌 **Hardware**
-- Circuit Design
-- Sensor Integration
-- Power Management
-
-### 🎨 **Design**
-- 3D Modeling
-- Technical Documentation
-- User Experience
+*This section will grow as I learn new skills and tackle more complex projects!*
 
 ---
 
